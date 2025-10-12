@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstMigg", "InstMigg.csproj", "{363A1E86-08C0-2282-CC52-60C16D25DBCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{363A1E86-08C0-2282-CC52-60C16D25DBCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363A1E86-08C0-2282-CC52-60C16D25DBCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363A1E86-08C0-2282-CC52-60C16D25DBCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363A1E86-08C0-2282-CC52-60C16D25DBCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71E92358-3A32-4C8F-8E47-7AA89FDB0244}
+	EndGlobalSection
+EndGlobal
