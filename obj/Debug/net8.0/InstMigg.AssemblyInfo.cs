@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InstMigg")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e007490ae9768c1ed2e3811b65458492933dde42")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67492369fd9083cebf48f21604c3c567fee0bf5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("InstMigg")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InstMigg")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

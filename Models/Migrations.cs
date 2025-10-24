@@ -1,15 +1,7 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace InstMigg.Models
 {
-    public class Migrations
+    public class Migrations : Client
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public DateTime Date { get; set; }
         public string NewContract { get; set; }
         public double NewPrice { get; set; }
 
@@ -21,5 +13,8 @@ namespace InstMigg.Models
             NewContract = newContract;
             NewPrice = newPrice;
         }
+
+        public Migrations(){}
+
     }
 }
